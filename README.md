@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Onkar.
-- 👀 I’m interested in Full Stack Web Development and Data Science.
-- 🌱 I’m currently learning Front-end Development and Statistics.
+- 👀 I'm in Java Backend Developer.
+- 🌱 I’m currently learning Backend,Front-end Technologies.
 - 📫 How to reach me onkarraut97@gmail.com
 
 <!---
